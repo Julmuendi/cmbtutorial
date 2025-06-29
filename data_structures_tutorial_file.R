@@ -23,3 +23,4 @@ cats2
 typeof(cats2$weight)
 
 str(cats2)
+class(cats)
